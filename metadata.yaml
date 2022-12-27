@@ -1,0 +1,28 @@
+_repo: The-doctor-c-vol-II-of-7_69534
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Southey, Robert
+    birthdate: 1774
+    deathdate: 1843
+    gutenberg_agent_id: '488'
+    url: http://www.gutenberg.org/2009/agents/488
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Southey
+description: ''
+gutenberg_issued: '2022-12-13'
+identifiers:
+  gutenberg: '69534'
+language: en
+pgterms:marc904: https://archive.org/details/b29325055_0002
+pgterms:marc905: 20221006100853southey
+pgterms:marc906: '1834'
+pgterms:marc907: GB
+production_note: Ron Swanson
+publication_note: 'United Kingdom: Longman, Rees, Orme, Brown, Green and Longman,1834.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The doctor, &c., vol. II (of 7)
+url: http://www.gutenberg.org/ebooks/69534
